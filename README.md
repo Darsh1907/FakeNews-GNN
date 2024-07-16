@@ -1,6 +1,4 @@
-# FakeNews-GNN
-
-## Fraud Detection with Pytorch Geometric
+# Fraud Detection with Pytorch Geometric
 This Colab notebook demonstrates how to perform fraud detection using Pytorch Geometric on the UPFD dataset. The UPFD dataset contains news propagation graphs extracted from Twitter, and the goal is to classify news articles as real or fake.
 
 ## Installation
